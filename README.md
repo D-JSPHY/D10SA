@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D10SA
-- 👀 I’m interested in fronted
-- 🌱 I’m currently learning machéni learnig 
-- 💞️ I’m looking to collaborate on Javascript and MySQL
+- 👀 I’m interested in video game development and hardware programming
+- 🌱 I’m currently electronics, Python and video game programming
+- 💞️ I’m looking to collaborate on Python and c++
 - 📫 How to reach me ...
 
 <!---
